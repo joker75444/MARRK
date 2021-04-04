@@ -1,16 +1,7 @@
 --[[
  
-          ██                  
-                                                                ███
-          ██             ██                 ██████    ██   █
-          ██           ██  ██             ██           ██  █               
-          ██          ██    ██          ██             ██ █
-          ██         ██      ██        ██              ███   mark ✾ @eljo_ker_m
-          ██        ██        ██      ██               ███   mark ✾ @eljo_ker_m
-          ██       ██  ████  ██      ██              ██ █
-   ██    ██      ██            ██      ██             ██  █
-   ███████     ██              ██      ███████     ██   █
-                                                                ███
+mark ✾ @eljo_ker_m
+mark ✾ @eljo_ker_m
 mark ✾ @eljo_ker_m
 تم تطوير وبرمجة السورس من قبل جوكر  ✾ 
  @eljo_ker_m
@@ -133,19 +124,19 @@ local TokenBot = io.open('./inc/Token.txt', "r")
 if not TokenBot then
 print('\27[0;33m>>'..[[
 echo -e "\e[38;5;77m       •{ تنصيب سورس مارك بنسبه 100% ]  }•\e[0m"
-echo -e "\e[38;5;77m       •{ •{ Join the Source Channel : @RISK_00 }• }•\e[0m"
+echo -e "\e[38;5;77m       •{ •{ Join the Source Channel : @MARK_5 }• }•\e[0m"
  
-echo -e "\e[38;5;77m                 ██e[0m"
-echo -e "\e[38;5;77m                                                                      ███e[0m"
-echo -e "\e[38;5;77m                 ██             ██                 ██████    ██   █e[0m"
-echo -e "\e[38;5;77m                 ██           ██  ██             ██           ██  █e[0m"
-echo -e "\e[38;5;77m                 ██          ██    ██          ██             ██ █e[0m"
-echo -e "\e[38;5;77m                 ██         ██      ██        ██              ███e[0m"
-echo -e "\e[38;5;77m                 ██        ██        ██      ██               ███e[0m"
-echo -e "\e[38;5;77m                 ██       ██  ████  ██      ██              ██ █e[0m"
-echo -e "\e[38;5;77m          ██    ██      ██            ██      ██             ██  █e[0m"
-echo -e "\e[38;5;77m          ███████     ██              ██      ███████     ██   █e[0m"
-echo -e "\e[38;5;77m                                                                      ███e[0m"
+echo -e "\e[38;5;77m         e[0m"
+echo -e "\e[38;5;77m                                                                      e[0m"
+echo -e "\e[38;5;77m       e[0m"
+echo -e "\e[38;5;77m       e[0m"
+echo -e "\e[38;5;77m       e[0m"
+echo -e "\e[38;5;77m                        e[0m"
+echo -e "\e[38;5;77m                                            e[0m"
+echo -e "\e[38;5;77m  e[0m"
+echo -e "\e[38;5;77m  e[0m"
+echo -e "\e[38;5;77m          e[0m"
+echo -e "\e[38;5;77m                                                                      e[0m"
 
 echo -e "\e[38;5;77m       •{ SOURCE mark source has been installed }•\e[0m"
 echo -e "\e[38;5;77m       •{ developer JOKER : @eljo_ker_m  }•\e[0m"
@@ -183,26 +174,26 @@ end
 
 print('\27[0;33m>>'..[[
 echo -e "\e[38;5;77m       •{ تنصيب سورس مارك بنسبه 100% ]  }•\e[0m"
-echo -e "\e[38;5;77m       •{ •{ Join the Source Channel : @RISK_00 }• }•\e[0m"
+echo -e "\e[38;5;77m       •{ •{ Join the Source Channel : @MARK_5 }• }•\e[0m"
  
-echo -e "\e[38;5;77m                 ██e[0m"
-echo -e "\e[38;5;77m                                                                      ███e[0m"
-echo -e "\e[38;5;77m                 ██             ██                 ██████    ██   █e[0m"
-echo -e "\e[38;5;77m                 ██           ██  ██             ██           ██  █e[0m"
-echo -e "\e[38;5;77m                 ██          ██    ██          ██             ██ █e[0m"
-echo -e "\e[38;5;77m                 ██         ██      ██        ██              ███e[0m"
-echo -e "\e[38;5;77m                 ██        ██        ██      ██               ███e[0m"
-echo -e "\e[38;5;77m                 ██       ██  ████  ██      ██              ██ █e[0m"
-echo -e "\e[38;5;77m          ██    ██      ██            ██      ██             ██  █e[0m"
-echo -e "\e[38;5;77m          ███████     ██              ██      ███████     ██   █e[0m"
-echo -e "\e[38;5;77m                                                                      ███e[0m"
+echo -e "\e[38;5;77m         e[0m"
+echo -e "\e[38;5;77m                                                                      e[0m"
+echo -e "\e[38;5;77m       e[0m"
+echo -e "\e[38;5;77m       e[0m"
+echo -e "\e[38;5;77m       e[0m"
+echo -e "\e[38;5;77m                        e[0m"
+echo -e "\e[38;5;77m                                            e[0m"
+echo -e "\e[38;5;77m  e[0m"
+echo -e "\e[38;5;77m  e[0m"
+echo -e "\e[38;5;77m          e[0m"
+echo -e "\e[38;5;77m                                                                      e[0m"
 
 echo -e "\e[38;5;77m       •{ SOURCE mark source has been installed }•\e[0m"
 echo -e "\e[38;5;77m       •{ developer JOKER : @eljo_ker_m  }•\e[0m"
 
-echo -e "\e[38;5;77m     mark ✾ @eljo_ker_me[0m"
-echo -e "\e[38;5;77m     ✾تم تطوير وبرمجة السورس من قبل جوكر ✾ .e[0m"
-echo -e "\e[38;5;77m     ✾ @eljo_ker_me[0m"
+echo -e "\e[38;5;77m      mark ✾ @eljo_ker_me[0m"
+echo -e "\e[38;5;77m       ✾تم تطوير وبرمجة السورس من قبل جوكر ✾ .e[0m"
+echo -e "\e[38;5;77m       ✾ @eljo_ker_me[0m"
 -ـ-ـ-ـ-ـ-ــ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ--ـ-ـ-ـ-ـ
                                                   
 ]]..'\027[0;32m'
@@ -282,10 +273,6 @@ msg.GroupActive = true
 else
 msg.GroupActive = false
 end
-
-if msg.sender_user_id_ == 1166711147 then 
-msg.TheRank =  'مالك السورس'
-msg.Rank = 1
 
 elseif msg.sender_user_id_ == 1178865384 then 
 msg.TheRank =  'مالك السورس'

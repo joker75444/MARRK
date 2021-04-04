@@ -1917,7 +1917,7 @@ if (MsgText[1]== "ايدي" or MsgText[1]=="ايديي🆔") and msg.type == "pv
 
 if MsgText[1]== "قناة السورس" and msg.type == "pv" then
 local inline = {{{text="-قنآهہ‏‏ آلسـورس اضـغـط هـنـآ ",url="https://t.me/MARK_5"}}}
-send_key(msg.sender_user_id_,'   [قناة سورس : MARK_5](https://t.me/RISK_00)' ,nil,inline,msg.id_)
+send_key(msg.sender_user_id_,'   [قناة سورس : MARK_5](https://t.me/MARK_5)' ,nil,inline,msg.id_)
 return false
 end
 
@@ -1939,15 +1939,15 @@ send_key(msg.sender_user_id_,'   [★  وٌأّتٌـسِـأّبً أّلَمً
 return false
 end
 
-if MsgText[1]== "بابلو المالك" and msg.type == "pv" then
-local inline = {{{text="-مالك السورس اضـغـط هـنـآ ",url="https://t.me/pabl0oooo"}}}
-send_key(msg.sender_user_id_,'   [مالك السورس](https://t.me/pabl0oooo)' ,nil,inline,msg.id_)
+if MsgText[1]== "★  بابلو المالك ★" and msg.type == "pv" then
+local inline = {{{text="★  بابلو المالك ★",url="https://t.me/pabl0oooo"}}}
+send_key(msg.sender_user_id_,'   [★  بابلو المالك ★](https://t.me/pabl0oooo)' ,nil,inline,msg.id_)
 return false
 end
 
-if MsgText[1]== "مهدي المالك" and msg.type == "pv" then
-local inline = {{{text="-مالك السورس اضـغـط هـنـآ ",url="https://t.me/QpSSpQ"}}}
-send_key(msg.sender_user_id_,'   [مهدي المالك](https://t.me/QpSSpQ)' ,nil,inline,msg.id_)
+if MsgText[1]== "★  بابلو المالك ★" and msg.type == "pv" then
+local inline = {{{text="★  بابلو المالك ★",url="https://t.me/pabl0oooo"}}}
+send_key(msg.sender_user_id_,'   [★  بابلو المالك ★](https://t.me/pabl0oooo)' ,nil,inline,msg.id_)
 return false
 end
 
@@ -2476,19 +2476,14 @@ end
 end 
 
 if MsgText[1] == "السورس" or MsgText[1]=="سورس" then
-return [[
-; 𝙨𝙤𝙪𝙧𝙘𝙚 𝙢𝙖𝙧𝙠 ⁦ਊ 
-
-[𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳](https://t.me/eljo_ker_m)
-
- [𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳](https://t.me/QpSSpQ)
-
- [𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳](https://t.me/pabl0oooo)
-
-[𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝄬](https://t.me/MARK_5)
-]]
+local text = " Welcome to SourceMark "
+local inline = {
+{{text = '-Developer of source  .',url="https://t.me/pabl0oooo"}},
+{{text = '- Source programmer.',url="https://https://t.me/eljo_ker_m"}},
+{{text = '- Sσυяcε cнαηηεℓ .',url="t.me/MARK_5"}},
+}   
+return send_inline(msg.chat_id_,text,inline,msg.id_)
 end
-
 
 if MsgText[1] == "التاريخ" then
 return "\n𖤐  الـتـاريـخ : "..os.date("%Y/%m/%d")
@@ -2907,8 +2902,7 @@ local keyboard = {
 {"★  أّلَمًبًرمًجّ أّلَأّسِـأّسِـى ★"},
 {"★  وٌأّتٌـسِـأّبً أّلَمًبًرمًجّ أّلَأّسِـأّسِـى ★"},
 {"★ ^ ★"},
-{"بابلو المالك"},
-{"مهدي المالك"},
+{"★ بابلو المالك ★"},
 {"ضع اسم للبوت","ضع صوره للترحيب"},
 {"تفعيل المطور","تعطيل المطور"},
  {"تعطيل التواصل","تفعيل التواصل"},
@@ -4146,13 +4140,13 @@ elseif Text== "زواج"  then return sendMsg(msg.chat_id_,msg.id_,"𖤐 أهل�
 elseif Text== "طلاق"  then return sendMsg(msg.chat_id_,msg.id_,"𖤐 أهلاً عزيزي\n𖤐 تم طلاق الخاينه بنجاح↯\n𖤐 الآن هي مطلقه \n☆")
 elseif Text== "اوامر التسليه"  then return sendMsg(msg.chat_id_,msg.id_,"\n‌‌‏┄─┅══┅─┄\n𖤐 مرحباً عزيزي\n𖤐 هذي اوامر التسليه:  \n┄─┅═ـ═┅─┄\n𖤐 رفع ◄► تنزيل ❬ متوحد ❭\n𖤐 رفع ◄► تنزيل ❬ وتكه ❭\n𖤐 رفع ◄► تنزيل ❬ غبي ❭\n𖤐 رفع ◄► تنزيل ❬ كلب ❭\n𖤐 رفع ◄► تنزيل ❬ حمار ❭\n𖤐 رفع ◄► تنزيل ❬ زوجتي ❭\n𖤐 رفع ◄► تنزيل ❬ متوحده ❭\n𖤐 رفع ◄► ❬ بقلبي ❭ تنزيل ◄► ❬ من قلبي❭\n𖤐 ❬ طلاق ❭ ◄► ❬ زواج ❭\n┄─┅═ـ═┅─┄")
 elseif Text== "اوامر التسليه الجديده"  then return sendMsg(msg.chat_id_,msg.id_,"\n‌‌‏┄─┅══┅─┄\n⸙ مرحباً عزيزي\n⸙ هذي اوامر التسليه:  \n┄─┅═ـ═┅─┄\nرفع ◄► تنزيل ❬ خول ❭\n⸙رفع ◄► تنزيل ❬ عرص ❭\n⸙رفع ◄► تنزيل ❬ بكس ❭\n⸙رفع ◄► تنزيل ❬ متناك ❭\n⸙رفع ◄► تنزيل ❬ شرموط ❭\n⸙رفع ◄► تنزيل ❬ السندريلا ❭\n⸙رفع ◄► تنزيل ❬ شاذ ❭\n⸙رفع ◄► تنزيل❬ بيست ❭\n⸙رفع ◄► تنزيل❬ تونز ❭\n⸙رفع ◄► تنزيل❬ علق ❭\n⸙رفع ◄► تنزيل❬ حياتي ❭\n⸙رفع ◄► تنزيل❬ سندي ❭\n⸙رفع ◄► تنزيل❬  \n┄─┅═ـ═┅─┄")
-elseif Text:match(Bot_Name.."كيفك") then 
+elseif Text:match(Bot_Name.."عامل ايه") then 
   return sendMsg(msg.chat_id_,msg.id_,"بخير يقلبي ونت .")
   elseif Text== "ياتي"  then return sendMsg(msg.chat_id_,msg.id_,"بتكسف يووه.")
   elseif Text== "احبك."  then return sendMsg(msg.chat_id_,msg.id_,"مش اكتر مني ")
-  elseif Text== "احبك"  then return sendMsg(msg.chat_id_,msg.id_,"ياتي")
+  elseif Text== "احبك"  then return sendMsg(msg.chat_id_,msg.id_,"احبك اكتر")
   elseif Text== "يحلو"  then return sendMsg(msg.chat_id_,msg.id_,"اي يقلبي")
-  elseif Text== "كسمك"  then return sendMsg(msg.chat_id_,msg.id_,"عيب.")
+  elseif Text== "كسمك"  then return sendMsg(msg.chat_id_,msg.id_,"نكت امك.")
   elseif Text== "مخنوق"  then  return sendMsg(msg.chat_id_,msg.id_,"اقرء قرأن."  )
   elseif Text== "مرحبا"  then return sendMsg(msg.chat_id_,msg.id_,"اهلاً عزيزي .")
   elseif Text== "سلام" or Text== "السلامم عليكم" or Text== "سلام عليكم" or Text=="سلامنن عليكم" or Text=="السلامن عليكم" then 
@@ -4182,7 +4176,7 @@ elseif Text:match(Bot_Name.."كيفك") then
   SendMention(msg.chat_id_,data.id_,msg.id_,"\n\n _ 𝚄𝚂𝙴𝚁 𖣼 "..USERNAME..".   _ 𝚈𝙾𝚄𝚁 𝙸𝙳 𖢇 "..data.id_.." ",37,USERCAR)  
   return false
   end)
-  elseif Text=="ابي رابط الحذف" or Text=="ابي رابط حذف" or Text=="رابط حذف" or Text=="رابط الحذف" then
+  elseif Text==" رابط الحذف" or Text==" رابط حذف" or Text=="رابط حذف" or Text=="رابط الحذف" then
   return sendMsg(msg.chat_id_,msg.id_,[[
   𖤐 رابط حذف حساب التليجرام
 𖤐 [أضغط هُنا](https://telegram.org/deactivate) - .
@@ -4191,28 +4185,28 @@ elseif Text:match(Bot_Name.."كيفك") then
   --=====================================
 elseif Text== "انا مين" or Text== "مين انا"  then
 if msg.SudoUser then  
-return sendMsg(msg.chat_id_,msg.id_,"[انت مطوري الغالي ♕](https://t.me/RISK_00) ")
+return sendMsg(msg.chat_id_,msg.id_,"[انت مطوري الغالي ♕](https://t.me/MARK_5) ")
 elseif msg.Creator then 
-return sendMsg(msg.chat_id_,msg.id_,"[انت منشئ المجموعه  تاج راسي♔](https://t.me/RISK_00)")
+return sendMsg(msg.chat_id_,msg.id_,"[انت منشئ المجموعه  تاج راسي♔](https://t.me/MARK_5)")
 elseif msg.Director then 
-return sendMsg(msg.chat_id_,msg.id_,"[انت مدير المجموعه๑](https://t.me/RISK_00)")
+return sendMsg(msg.chat_id_,msg.id_,"[انت مدير المجموعه๑](https://t.me/MARK_5)")
 elseif msg.Admin then 
-return sendMsg(msg.chat_id_,msg.id_,"[انت ادمن شد حيلك♘](https://t.me/RISK_00)")
+return sendMsg(msg.chat_id_,msg.id_,"[انت ادمن شد حيلك♘](https://t.me/MARK_5)")
 else 
-return sendMsg(msg.chat_id_,msg.id_,"[مجرد عضو هنا 𖦹](https://t.me/RISK_00)")
+return sendMsg(msg.chat_id_,msg.id_,"[مجرد عضو هنا 𖦹](https://t.me/MARK_5)")
 end 
 end 
 elseif Text== "مين ضافني" or Text== "منو ضافني"  then
 if msg.SudoUser then  
-return sendMsg(msg.chat_id_,msg.id_,"[انت مكانك كل مكان يا مطور♕](https://t.me/RISK_00) ")
+return sendMsg(msg.chat_id_,msg.id_,"[انت مكانك كل مكان يا مطور♕](https://t.me/MARK_5) ")
 elseif msg.Creator then 
-return sendMsg(msg.chat_id_,msg.id_,"[انت منشئ المجموعه](https://t.me/RISK_00)")
+return sendMsg(msg.chat_id_,msg.id_,"[انت منشئ المجموعه](https://t.me/MARK_5)")
 elseif msg.Director then 
-return sendMsg(msg.chat_id_,msg.id_,"[انت دخلت عبر الرابط](https://t.me/RISK_00)")
+return sendMsg(msg.chat_id_,msg.id_,"[انت دخلت عبر الرابط](https://t.me/MARK_5)")
 elseif msg.Admin then 
-return sendMsg(msg.chat_id_,msg.id_,"[انت دخلت عبر الرابط](https://t.me/RISK_00)")
+return sendMsg(msg.chat_id_,msg.id_,"[انت دخلت عبر الرابط](https://t.me/MARK_5)")
 else 
-return sendMsg(msg.chat_id_,msg.id_,"[انت دخلت عبر الرابط](https://t.me/RISK_00)")
+return sendMsg(msg.chat_id_,msg.id_,"[انت دخلت عبر الرابط](https://t.me/MARK_5)")
 end
 
 
@@ -4369,11 +4363,7 @@ if not redis:get('kar') then
   "^(★  أّلَمًبًرمًجّ أّلَأّسِـأّسِـى ★)$",
   "^(★  وٌأّتٌـسِـأّبً أّلَمًبًرمًجّ أّلَأّسِـأّسِـى ★)$",
   "^(★ ^ ★)$",
-  "^(المبرمج الجوكر)$",
-  "^(مهدي المالك)$",
-  "^(مصنع بوتات المبرمج)$",
-  "^(بوت ماركت المبرمج)$",
-  "^(بوت دعم قنوات المبرمج)$",
+  "^(★ بابلو المالك ★)$",
   "^(كشف)$",
   "^(كشف) (%d+)$",
   "^(كشف) (@[%a%d_]+)$",
