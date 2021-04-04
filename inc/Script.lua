@@ -2476,13 +2476,13 @@ end
 end 
 
 if MsgText[1] == "السورس" or MsgText[1]=="سورس" then
-local text = " Welcome to SourceMark "
-local inline = {
+local keyboard = {}
+keyboard.inline_keyboard = {
 {{text = '-Developer of source  .',url="https://t.me/pabl0oooo"}},
 {{text = '- Source programmer.',url="https://https://t.me/eljo_ker_m"}},
 {{text = '- Sσυяcε cнαηηεℓ .',url="t.me/MARK_5"}},
 }   
-return send_inline(msg.chat_id_,text,inline,msg.id_)
+send_inline(msg.chat_id_,  "Welcome to SourceMark" ,keyboard,'html')
 end
 
 if MsgText[1] == "التاريخ" then
