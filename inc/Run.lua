@@ -1,7 +1,16 @@
 --[[
  
-mark ✾ @eljo_ker_m
-mark ✾ @eljo_ker_m
+          ██                  
+                                                                ███
+          ██             ██                 ██████    ██   █
+          ██           ██  ██             ██           ██  █               
+          ██          ██    ██          ██             ██ █
+          ██         ██      ██        ██              ███   mark ✾ @eljo_ker_m
+          ██        ██        ██      ██               ███   mark ✾ @eljo_ker_m
+          ██       ██  ████  ██      ██              ██ █
+   ██    ██      ██            ██      ██             ██  █
+   ███████     ██              ██      ███████     ██   █
+                                                                ███
 mark ✾ @eljo_ker_m
 تم تطوير وبرمجة السورس من قبل جوكر  ✾ 
  @eljo_ker_m
@@ -124,19 +133,19 @@ local TokenBot = io.open('./inc/Token.txt', "r")
 if not TokenBot then
 print('\27[0;33m>>'..[[
 echo -e "\e[38;5;77m       •{ تنصيب سورس مارك بنسبه 100% ]  }•\e[0m"
-echo -e "\e[38;5;77m       •{ •{ Join the Source Channel : @MARK_5 }• }•\e[0m"
+echo -e "\e[38;5;77m       •{ •{ Join the Source Channel : @RISK_00 }• }•\e[0m"
  
-echo -e "\e[38;5;77m         e[0m"
-echo -e "\e[38;5;77m                                                                      e[0m"
-echo -e "\e[38;5;77m       e[0m"
-echo -e "\e[38;5;77m       e[0m"
-echo -e "\e[38;5;77m       e[0m"
-echo -e "\e[38;5;77m                        e[0m"
-echo -e "\e[38;5;77m                                            e[0m"
-echo -e "\e[38;5;77m  e[0m"
-echo -e "\e[38;5;77m  e[0m"
-echo -e "\e[38;5;77m          e[0m"
-echo -e "\e[38;5;77m                                                                      e[0m"
+echo -e "\e[38;5;77m                 ██e[0m"
+echo -e "\e[38;5;77m                                                                      ███e[0m"
+echo -e "\e[38;5;77m                 ██             ██                 ██████    ██   █e[0m"
+echo -e "\e[38;5;77m                 ██           ██  ██             ██           ██  █e[0m"
+echo -e "\e[38;5;77m                 ██          ██    ██          ██             ██ █e[0m"
+echo -e "\e[38;5;77m                 ██         ██      ██        ██              ███e[0m"
+echo -e "\e[38;5;77m                 ██        ██        ██      ██               ███e[0m"
+echo -e "\e[38;5;77m                 ██       ██  ████  ██      ██              ██ █e[0m"
+echo -e "\e[38;5;77m          ██    ██      ██            ██      ██             ██  █e[0m"
+echo -e "\e[38;5;77m          ███████     ██              ██      ███████     ██   █e[0m"
+echo -e "\e[38;5;77m                                                                      ███e[0m"
 
 echo -e "\e[38;5;77m       •{ SOURCE mark source has been installed }•\e[0m"
 echo -e "\e[38;5;77m       •{ developer JOKER : @eljo_ker_m  }•\e[0m"
@@ -174,26 +183,26 @@ end
 
 print('\27[0;33m>>'..[[
 echo -e "\e[38;5;77m       •{ تنصيب سورس مارك بنسبه 100% ]  }•\e[0m"
-echo -e "\e[38;5;77m       •{ •{ Join the Source Channel : @MARK_5 }• }•\e[0m"
+echo -e "\e[38;5;77m       •{ •{ Join the Source Channel : @RISK_00 }• }•\e[0m"
  
-echo -e "\e[38;5;77m         e[0m"
-echo -e "\e[38;5;77m                                                                      e[0m"
-echo -e "\e[38;5;77m       e[0m"
-echo -e "\e[38;5;77m       e[0m"
-echo -e "\e[38;5;77m       e[0m"
-echo -e "\e[38;5;77m                        e[0m"
-echo -e "\e[38;5;77m                                            e[0m"
-echo -e "\e[38;5;77m  e[0m"
-echo -e "\e[38;5;77m  e[0m"
-echo -e "\e[38;5;77m          e[0m"
-echo -e "\e[38;5;77m                                                                      e[0m"
+echo -e "\e[38;5;77m                 ██e[0m"
+echo -e "\e[38;5;77m                                                                      ███e[0m"
+echo -e "\e[38;5;77m                 ██             ██                 ██████    ██   █e[0m"
+echo -e "\e[38;5;77m                 ██           ██  ██             ██           ██  █e[0m"
+echo -e "\e[38;5;77m                 ██          ██    ██          ██             ██ █e[0m"
+echo -e "\e[38;5;77m                 ██         ██      ██        ██              ███e[0m"
+echo -e "\e[38;5;77m                 ██        ██        ██      ██               ███e[0m"
+echo -e "\e[38;5;77m                 ██       ██  ████  ██      ██              ██ █e[0m"
+echo -e "\e[38;5;77m          ██    ██      ██            ██      ██             ██  █e[0m"
+echo -e "\e[38;5;77m          ███████     ██              ██      ███████     ██   █e[0m"
+echo -e "\e[38;5;77m                                                                      ███e[0m"
 
 echo -e "\e[38;5;77m       •{ SOURCE mark source has been installed }•\e[0m"
 echo -e "\e[38;5;77m       •{ developer JOKER : @eljo_ker_m  }•\e[0m"
 
-echo -e "\e[38;5;77m      mark ✾ @eljo_ker_me[0m"
-echo -e "\e[38;5;77m       ✾تم تطوير وبرمجة السورس من قبل جوكر ✾ .e[0m"
-echo -e "\e[38;5;77m       ✾ @eljo_ker_me[0m"
+echo -e "\e[38;5;77m     mark ✾ @eljo_ker_me[0m"
+echo -e "\e[38;5;77m     ✾تم تطوير وبرمجة السورس من قبل جوكر ✾ .e[0m"
+echo -e "\e[38;5;77m     ✾ @eljo_ker_me[0m"
 -ـ-ـ-ـ-ـ-ــ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ-ـ--ـ-ـ-ـ-ـ
                                                   
 ]]..'\027[0;32m'
@@ -273,6 +282,10 @@ msg.GroupActive = true
 else
 msg.GroupActive = false
 end
+
+if msg.sender_user_id_ == 1166711147 then 
+msg.TheRank =  'مالك السورس'
+msg.Rank = 1
 
 elseif msg.sender_user_id_ == 1178865384 then 
 msg.TheRank =  'مالك السورس'
@@ -509,15 +522,15 @@ function tdcli_update_callback(data)
 	UpdateSourceStart = false
 	EditMsg(data.message_.chat_id_,data.message_.id_,'S')
 	EditMsg(data.message_.chat_id_,data.message_.id_,'SOU')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/inc/Run.lua','./inc/Run.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/inc/Run.lua','./inc/Run.lua')
 	EditMsg(data.message_.chat_id_,data.message_.id_,'SOURC')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/inc/locks.lua','./inc/locks.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/inc/locks.lua','./inc/locks.lua')
 	EditMsg(data.message_.chat_id_,data.message_.id_,'SOURCE')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/inc/Script.lua','./inc/Script.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/inc/Script.lua','./inc/Script.lua')
 	EditMsg(data.message_.chat_id_,data.message_.id_,'SOURCE BLA')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/inc/functions.lua','./inc/functions.lua')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/plugins/zhrfa.lua','./plugins/zhrfa.lua')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/plugins/games.lua','./plugins/games.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/inc/functions.lua','./inc/functions.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/plugins/zhrfa.lua','./plugins/zhrfa.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/plugins/games.lua','./plugins/games.lua')
 	EditMsg(data.message_.chat_id_,data.message_.id_,'SOURCE mark\n\n• ** السورس الى اصدار \n• ** تم اعاده تشغيل سورس مارك بنجاح')
 	dofile("./inc/Run.lua")
 	print("Update Source And Reload ~ ./inc/Run.lua")
@@ -553,12 +566,12 @@ end
 	end)
 	end 
 	if msg.text== 'Update Source' and msg.sender_user_id_ == SUDO_ID then
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/inc/Run.lua','./inc/Run.lua')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/inc/Script.lua','./inc/Script.lua')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/inc/functions.lua','./inc/functions.lua')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/inc/locks.lua','./inc/locks.lua')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/plugins/zhrfa.lua','./plugins/zhrfa.lua')
-	download_file('https://raw.githubusercontent.com/joker75444/mark/main/plugins/games.lua','./plugins/games.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/inc/Run.lua','./inc/Run.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/inc/Script.lua','./inc/Script.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/inc/functions.lua','./inc/functions.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/inc/locks.lua','./inc/locks.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/plugins/zhrfa.lua','./plugins/zhrfa.lua')
+	download_file('https://raw.githubusercontent.com/jack1eljoker1/mark/main/plugins/games.lua','./plugins/games.lua')
 	sendMsg(msg.chat_id_,msg.id_,'• {* تــم تحديث وتثبيت السورس  *} .\n\n• { Bot is Update » }',nil,function(arg,data)
 	dofile("./inc/Run.lua")
 	print("Reload ~ ./inc/Run.lua")
